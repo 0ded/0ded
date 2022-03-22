@@ -1,3 +1,3 @@
 # 0ded
 
-![img](/OG1_1172.JPG)
+![img](/0ded.jpg)
