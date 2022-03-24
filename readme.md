@@ -1,3 +1,3 @@
 # 0ded
 
-![img](/0ded.jpg)
+![img](/git.jpg)
