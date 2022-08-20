@@ -7,3 +7,6 @@
 
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=0ded&show_icons=true&theme=merko)](https://github.com/0ded/github-readme-stats)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ded&theme=merko)](https://github.com/0ded/github-readme-stats)
+
